@@ -1,5 +1,8 @@
 # SUCSS: Speeding up Cosine Similarity Search
 
+SUCSS is a python module to perform Cosine Similarity Search over
+large sets of embeddings.
+
 Even though Vector Databases do perform Cosine Similarity Search way 
 faster due to the use of more optimized algorithms. This repository
 contains a fast way to compute cosine similarity search using plain
